@@ -2,6 +2,19 @@
 
 This is a laundry list (some might call it awesome list) of systems papers and how they do evaluations (dataset, workload)
 
+---
+### [CryptDB, SOSP'11](https://people.csail.mit.edu/nickolai/papers/popa-cryptdb-cacm.pdf)
+
+Applications
+
+1. [phpBB](https://github.com/phpbb/phpbb)
+2. [HotCRP](https://github.com/kohler/hotcrp)
+3. grad-apply (MIT EECS application)
+4. [TPC-C](http://www.tpc.org/tpcc/detail.asp)
+5. OpenEMR
+6. web app (MIT 6.02)
+7. PHP Calendar
+8. `sql.mit.edu` traces
 
 ---
 ### [Spark Streaming (Discretized Stream), SOSP'13](http://dl.acm.org/citation.cfm?id=2522737)
