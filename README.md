@@ -2,7 +2,7 @@
 
 This is a laundry list (some might call it awesome list) of systems papers and how they do evaluations (dataset, workload)
 
-====================================================
+---
 ### [CherryPick, NSDI'17](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/alipourfard)
 
 Applications
@@ -13,7 +13,7 @@ Applications
 4. [SparkReg](https://github.com/databricks/spark-perf), a regression workload in SparkML with 250k examples, 10k features and 5 iterations.
 5. [SparkKm](https://github.com/databricks/spark-perf), a clustering algorithm in SparkML with 250k observations with 10k features.
 
-========================================================
+---
 ### Motivation
 
 System research is hard. You spent months and years building a system, and you have to evaluate it scientifically.
