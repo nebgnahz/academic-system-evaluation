@@ -1,6 +1,20 @@
-# academic-system-evaluation
+# Academic System Evaluation
 
 This is a laundry list (some might call it awesome list) of systems papers and how they do evaluations (dataset, workload)
+
+
+---
+### [Spark Streaming (Discretized Stream), SOSP'13](http://dl.acm.org/citation.cfm?id=2522737)
+
+Microbenchmark
+
+1. Grep + No data specification
+2. WordCount + No data specification
+3. TopKCount + No data specification
+
+Real Applications
+1. Video Distribution Monitoring + Conviva (data?)
+2. Crowdsourced Traffic Estimation + Mobile Millennium (data from "Scaling the Mobile Millennium system in the cloud")
 
 ---
 ### [CherryPick, NSDI'17](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/alipourfard)
